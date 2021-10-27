@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon:wght@400;700&display=swap');
+
+body {
+    font-family: 'Kreon', serif;
+
+    background-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4);
+    margin: 0;
+
+}
+
+#github-link {
+    color: black;
+    font-size: 4rem;
+    position: absolute;
+    right: 20px;
+    top: 5px;
+
+}
+
+h1 {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#intro {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+
+label {
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+input {
+    background-color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    padding: 15px;
+
+}
+
+button {
+    width: 120px;
+    margin: auto;
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    font-weight: 300;
+    font-family: 'Kreon', serif;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    background-color: #e4f12b;
+}
+
+#output-text {
+    text-align: center;
+    color: black;
+   font-weight: 600;
+    font-size: 30px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    
+    padding: 5px;
+    margin-top: 25px;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 20vh;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #f64f59
+}
+
+footer li {
+    display: inline;
+    padding: 30px;
+
+
+}
+
+#privacy-note {
+
+    color: lavender;
+    font-size: 20px;
+
+}

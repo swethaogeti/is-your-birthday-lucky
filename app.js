@@ -27,7 +27,7 @@ if(Math.sign(yourLuckyNumber)===1){
    }
   
 
-//var birthDate=Number(dateOfBirth.value);
+
 
 
 
